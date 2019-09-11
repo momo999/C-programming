@@ -1,8 +1,9 @@
-Grading at Wed Sep 11 21:37:02 UTC 2019
+Grading at Wed Sep 11 21:37:44 UTC 2019
 I expected to find a file called 'fruit.txt' but it did not exist
 (or was not a regular file)
 Here are the files that I can find:
 fruit.text
+grade.txt
 README
 
 Overall Grade: FAILED
